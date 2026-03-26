@@ -1,1 +1,3 @@
-# game-
+# python platformer 
+#technology
+python
